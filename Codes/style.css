@@ -106,7 +106,7 @@ p{
     font-weight: 100;
 }
 .contact-info{
-    padding-bottom: 150px;
+    padding-bottom: 30px;
 }
 .mail{
     font-size: 30px;
@@ -123,4 +123,11 @@ p{
     padding: 10px 20px;
     border-radius: 10px;
     font-weight: 600;
+}
+footer{
+    color: dimgray;
+    padding-top: 50px;
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 12px;
 }
